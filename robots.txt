@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://clopaticr.github.io/sitemap
+Sitemap: https://clopaticr.github.io/app/sitemap
+Sitemap: https://clopaticr.github.io/assets/sitemap
+Sitemap: https://clopaticr.github.io/css/sitemap
+Sitemap: https://clopaticr.github.io/includes/sitemap
+Sitemap: https://clopaticr.github.io/item/sitemap
+Sitemap: https://clopaticr.github.io/src/sitemap
